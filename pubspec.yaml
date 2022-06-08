@@ -1,7 +1,7 @@
 name: glassmorphic_widgets
 description: A package for glassmorphic widgets
 version: 0.0.1
-homepage:
+homepage: https://github.com/hamaccs/glass_morphic_widgets/tree/master
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
